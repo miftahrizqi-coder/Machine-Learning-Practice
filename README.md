@@ -27,6 +27,3 @@ The practices cover several fundamental stages of a machine learning workflow, s
 - **Matplotlib**
 - **Seaborn**
 - **Scikit-learn**
-│   └── ...
-│
-└── README.md
